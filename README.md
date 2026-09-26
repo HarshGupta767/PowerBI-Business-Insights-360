@@ -1,10 +1,10 @@
 # Business Insights 360 - Enterprise Power BI Dashboard
 
-👉 **[Live Interactive Dashboard]** (https://app.powerbi.com/view?r=eyJrIjoiODQ0MjE0MmEtZDZhZC00NDgzLWIwZGQtODI3NTQzZmY1NmJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ0MjE0MmEtZDZhZC00NDgzLWIwZGQtODI3NTQzZmY1NmJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-📊 **[Download Static Dashboard Presentation](docs/Business_Insights_360_Presentation.pdf)**  
+📊 [Download Static Dashboard Presentation](docs/Business_Insights_360_Presentation.pdf)
 
-💼 **[My Portfolio]** (https://codebasics.io/portfolio/Harshkumar-Gupta)
+💼 [My Portfolio](https://codebasics.io/portfolio/Harshkumar-Gupta)
 
 ---
 
