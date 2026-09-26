@@ -35,7 +35,7 @@ Looking at the unfiltered historical overview (`2022 Est` benchmark comparison):
 * **Regional Disparities & Operational Risk:** North America (NA) and India dominate sales volume, generating **$1,290.7M (26.0% RC)** and **$1,271.2M (25.6% RC)** respectively. Despite high revenues, both regions bleed profits: NA posts a **-13.4% Net Profit** with **Out of Stock** risks, while India runs at a **-22.0% Net Profit** accompanied by **Excess Inventory** inefficiencies.
 * **Channel & Segment Concentration:** Distribution relies heavily on Retailers (**71.07%**) versus Direct (**18.04%**) and Distributors (**10.89%**). The product mix leans heavily into PC hardware (**54.98%**). Amazon represents the single largest enterprise customer, contributing **13.6% RC** at a **36.76% Gross Margin**.
 
-![Executive View Baseline](images/baseline/Executive_View_Baseline.png)
+![Executive View Baseline](images/architecture/Executive_View_Baseline.png)
 
 ---
 
