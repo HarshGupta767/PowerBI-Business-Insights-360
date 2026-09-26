@@ -6,7 +6,7 @@
 
 💼 [My Portfolio](https://codebasics.io/portfolio/Harshkumar-Gupta)
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/harshkumar-gupta-531034201/)
+🔗 [LinkedIn Post]([https://www.linkedin.com/in/harshkumar-gupta-531034201/](https://lnkd.in/p/gAFQGsHp))
 
 ---
 
