@@ -6,6 +6,8 @@
 
 💼 [My Portfolio](https://codebasics.io/portfolio/Harshkumar-Gupta)
 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/harshkumar-gupta-531034201/)
+
 ---
 
 ## 📌 Project Objective
